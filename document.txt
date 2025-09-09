@@ -1,1 +1,2 @@
 This is the first version of the document.
+Here is the second sentence added.
